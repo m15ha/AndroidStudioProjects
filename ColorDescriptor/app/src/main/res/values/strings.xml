@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Color Descriptor</string>
+    <string name="button_find_description">Describe color</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+    </string-array>
+    <string-array name="description_of_temp">
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam architecto dolore ducimus enim in ipsum, iste maiores perspiciatis reprehenderit ullam, velit voluptates?</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio fuga fugiat illo, impedit magni, natus odio, omnis quis saepe tempore vel voluptates! Dicta dolorem dolorum error laboriosam numquam possimus tempora?</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam corporis dignissimos doloremque excepturi expedita harum ipsum itaque minus mollitia, nam, nesciunt nobis nostrum pariatur, possimus rem repellat rerum sit velit?</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid beatae blanditiis consequatur culpa deleniti doloremque ea eveniet id minima, nisi, perferendis, perspiciatis rerum suscipit veniam vitae. Enim id impedit vero.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tools Shop</string>
+    <string name="logo_description">Main logo</string>
+    <string name="logo_drill">Logo Drill</string>
+    <string-array name="tools">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+    </string-array>
+    <string name="drill_interskol_title">Drill Interskol</string>
+    <string name="drill_makita_title">Drill Makita</string>
+    <string name="drill_dewalt_title">Drill Dewalt</string>
+    <string name="drill_interskol_info">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias amet cumque deserunt hic id illum sint totam! A consectetur consequatur debitis ducimus eius, exercitationem natus, quia ratione saepe vel, velit?</string>
+    <string name="drill_makita_info">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, aperiam, consequatur dignissimos esse expedita incidunt iusto laborum minima molestiae molestias, nostrum officiis quo repudiandae saepe sequi sint sit suscipit voluptatibus.</string>
+    <string name="drill_dewalt_info">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, dolores odio quibusdam quis ratione saepe. Ad expedita provident repellat sit voluptate? Commodi eos, eveniet harum labore numquam ratione vel. Consequuntur!</string>
+
+</resources>
