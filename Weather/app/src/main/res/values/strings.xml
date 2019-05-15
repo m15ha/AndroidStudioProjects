@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="show_weather">Show weather</string>
+    <string name="input_city">Type your city or zip</string>
+</resources>
